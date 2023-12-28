@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "section1s",
+  "info": {
+    "singularName": "section1",
+    "pluralName": "section1s",
+    "displayName": "section1",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "test": {
+      "type": "string"
+    }
+  }
+}
